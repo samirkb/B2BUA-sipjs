@@ -1,11 +1,4 @@
-/********************************************************************************
- US211553: Evaluation of sip.js by implementing a B2BUA 
-*********************************************************************************
-Description :  This file is created to capture the details about the B2BUA server
-               implementation to evaluate the sip.js stack
-Author      :  Samir Kumar Behera
-Date        :  01/25/2014
-*********************************************************************************/
+US211553: Evaluation of sip.js by implementing a B2BUA 
 
 Project Intent :     
 ===============
