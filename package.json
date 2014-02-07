@@ -1,0 +1,23 @@
+{
+  "name": "B2BUA-app",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Samir B2BUA",
+  "main": "b2bua.js",
+  "dependencies": {
+    "sip": "git+https://github.com/kirm/sip.js.git#5356190e0805333285d0d60510aa1a8848d59fbd",
+    "node-uuid": "~1.3.3",
+    "express": "3.4.7",
+    "jade": "*"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "scripts": {
+    "test": "mocha -R spec",
+    "start": "node b2bua.js"
+  },
+  "repository": "",
+  "author": "Samir Kumar Behera",
+  "license": "BSD"
+}
